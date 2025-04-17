@@ -69,7 +69,6 @@ Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 - Power BI dashboard enables dynamic exploration of customer behavior
 
-## ✍ Author
-Mohammed Jaseel vk
-📧 [jaseeljas496@gmail.com]
-🔗 [http://linkedin.com/in/jaseel-vk-6326a2336]
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/jaseel-vk-6326a2336) or [email](mailto:jaseeljas496@gmail.com) for feedback or collaboration!
