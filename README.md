@@ -1,4 +1,4 @@
-# 🛒 Walmart Customer Behavior Analysis & Prediction
+# 🛒 Walmart Customer sales Analysis & Prediction
 This project analyzes customer behavior data from Walmart to identify repeat customers using machine learning techniques and visualizes insights using Power BI. The goal is to help Walmart better understand loyal customer traits and drive data-informed marketing strategies.
 
 ### 📊 Project Overview
